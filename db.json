@@ -1,0 +1,34 @@
+{
+    "price": {
+      "AGPM6617": {
+        "id": "199473",
+        "regular_price": "39.87",
+        "price_ranges": [],
+        "price": "19.36",
+        "strikethrough_price": "39.87",
+        "currency": "EUR",
+        "campaign": "",
+        "special": 0
+      },
+      "199473": {
+        "id": "199473",
+        "regular_price": "39.87",
+        "price_ranges": [],
+        "price": "19.36",
+        "strikethrough_price": "39.87",
+        "currency": "EUR",
+        "campaign": "",
+        "special": 0
+      },
+      "407038": {
+        "id": "407038",
+        "regular_price": "2.47",
+        "price_ranges": [],
+        "price": "2.47",
+        "strikethrough_price": 0,
+        "currency": "EUR",
+        "campaign": "",
+        "special": 0
+      }
+    }
+  }
